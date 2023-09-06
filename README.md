@@ -25,3 +25,6 @@ This README offers a concise overview of the steps required to implement a PyCha
 - Run the Streamlit application, allowing users to input sender, receiver, and amount values to store transactions as blocks in the PyChain ledger.
 - Verify block contents and hashes using the Streamlit drop-down menu.
 - Capture a screenshot of the Streamlit application displaying a blockchain with multiple blocks and include it in the README.md file.
+
+![Validation](Streamlit%20Pic.png)
+
